@@ -1,6 +1,6 @@
-package com.colak.springkafkaembeddedtesttutorial.config;
+package com.colak.springtutorial.config;
 
-import com.colak.springkafkaembeddedtesttutorial.model.Payment;
+import com.colak.springtutorial.model.Payment;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.Deserializer;
 import org.apache.kafka.common.serialization.StringDeserializer;

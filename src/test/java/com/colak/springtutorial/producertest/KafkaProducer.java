@@ -1,6 +1,6 @@
-package com.colak.springkafkaembeddedtesttutorial.producertest;
+package com.colak.springtutorial.producertest;
 
-import com.colak.springkafkaembeddedtesttutorial.model.Payment;
+import com.colak.springtutorial.model.Payment;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

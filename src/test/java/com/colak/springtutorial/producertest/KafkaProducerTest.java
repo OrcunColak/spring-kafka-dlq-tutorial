@@ -1,7 +1,7 @@
-package com.colak.springkafkaembeddedtesttutorial.producertest;
+package com.colak.springtutorial.producertest;
 
-import com.colak.springkafkaembeddedtesttutorial.model.Payment;
-import com.colak.springkafkaembeddedtesttutorial.service.KafkaConsumer;
+import com.colak.springtutorial.model.Payment;
+import com.colak.springtutorial.service.KafkaConsumer;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

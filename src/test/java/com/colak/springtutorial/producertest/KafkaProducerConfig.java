@@ -1,6 +1,6 @@
-package com.colak.springkafkaembeddedtesttutorial.producertest;
+package com.colak.springtutorial.producertest;
 
-import com.colak.springkafkaembeddedtesttutorial.model.Payment;
+import com.colak.springtutorial.model.Payment;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.context.annotation.Bean;

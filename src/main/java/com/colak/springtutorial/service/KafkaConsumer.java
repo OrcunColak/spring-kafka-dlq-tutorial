@@ -1,6 +1,6 @@
-package com.colak.springkafkaembeddedtesttutorial.service;
+package com.colak.springtutorial.service;
 
-import com.colak.springkafkaembeddedtesttutorial.model.Payment;
+import com.colak.springtutorial.model.Payment;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.annotation.DltHandler;
